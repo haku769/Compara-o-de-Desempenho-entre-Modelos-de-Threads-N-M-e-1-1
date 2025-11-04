@@ -1,3 +1,4 @@
+Alunos João Guilherme Marques, João Pedro Cardoso de Liz, Gabriel Baczinski Santana
 Modelo N:M
 Cenário	              
 Teste 1: Número de Threads: 10                     
